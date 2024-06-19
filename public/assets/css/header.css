@@ -1,0 +1,11 @@
+
+.bg1{
+    background-image: url('../img/header.png');
+    height: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-link a{
+    font-size: 20px;
+    font-weight: 500;
+}
